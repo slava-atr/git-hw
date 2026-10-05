@@ -1,3 +1,18 @@
-* 0091486 add line 4
-* 485be61 add line 3
-* 30f2b38 Initial commit
+commit 525eca546f0854c7b878bdb428cf834a8cdf9c36 (HEAD -> main, origin/main)
+Author: Слава <slava@MacBook-Air-M5.local>
+Date:   Mon Oct 5 18:49:11 2026 +0300
+
+    add log.txt
+
+commit 0091486d4832f509b07b3d59cf98920f73f7c754
+Author: Слава <slava@MacBook-Air-M5.local>
+Date:   Mon Oct 5 18:16:46 2026 +0300
+
+    add line 4
+
+commit 485be616c97f21f0e2525dcf68884f69fb0f3ee2
+Author: Слава <slava@MacBook-Air-M5.local>
+Date:   Mon Oct 5 18:16:07 2026 +0300
+
+    add line 3
+:
